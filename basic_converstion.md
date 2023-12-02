@@ -4,3 +4,4 @@
 - create function that take two numbers as arguments and returns their sum.
 ### print current time in this format:[result](./basic_converstion/current_time.rs)
 - print current date and time in the form of 2023-12-02 10:48:22
+### calculate area from radius:[result](./basic_converstion/radius_to_area.rs)
